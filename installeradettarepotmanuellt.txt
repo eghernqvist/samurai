@@ -1,0 +1,5 @@
+- skapa en tom mapp
+- composer init 
+  - tryck enter till du kommer till "search for packages" och
+    skriv in "lumen" där
+- composer install
