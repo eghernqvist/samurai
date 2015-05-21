@@ -1,0 +1,12 @@
+{
+    "name": "herge/heltnymapp",
+    "require": {
+        "laravel/lumen-framework": "^5.0"
+    },
+    "authors": [
+        {
+            "name": "Emil Hernqvist",
+            "email": "e.g.hernqvist@gmail.com"
+        }
+    ]
+}
